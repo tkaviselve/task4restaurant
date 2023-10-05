@@ -1,0 +1,91 @@
+#hotmeal {
+  width: 150px;
+  height: 56px;
+  top: 11px;
+  margin-left: 50px;
+}
+#header {
+  padding: 10px;
+}
+#deliver {
+  width: Hug (250px);
+  height: Hug (20px);
+  top: 43px;
+  margin-left: 50px;
+  gap: 12px;
+}
+#search {
+  width: Hug (150px);
+  height: Hug (20px);
+  top: 35px;
+  margin-left: 100px;
+  gap: 30px;
+}
+.container1 {
+  background-image: url("image/Rectangle 22.png");
+  width: auto;
+  height: 532px;
+  top: 101px;
+  left: 1px;
+  align-items: left;
+}
+#look {
+  width: 319px;
+  height: 100px;
+  margin-top: 100px;
+  margin-left: 50px;
+}
+#within {
+  width: 332px;
+  height: 26px;
+  top: 450px;
+  margin-left: 75px;
+}
+#top {
+  width: 556px;
+  height: Hug (86px);
+  top: 500px;
+  margin-left: 70px;
+}
+#bottom {
+  width: 556px;
+  height: Hug (108px);
+  top: 586.441650390625px;
+  margin-left: 70px;
+}
+#pngegg {
+  width: 524px;
+  height: 424px;
+  margin-top: 100px;
+  margin-left: 300px;
+  padding: 30px;
+  gap: 20px;
+}
+.container {
+  box-shadow: 0px 5px 27px 11px rgba(255, 181, 21, 0.1);
+}
+.bg-grey {
+  width: auto;
+  height: 554px;
+  top: 1937px;
+  background-color: rgba(246, 245, 238, 1);
+}
+#header2 {
+  width: 407px;
+  height: 292px;
+}
+#header3 {
+  width: 407px;
+  height: 80px;
+  border-radius: 8px;
+}
+#header4 {
+  width: 500px;
+  height: 312px;
+  border-radius: 20px;
+}
+.bottomimage {
+  background-image: url("image/Rectangle 344.png");
+  width: auto;
+  height: 450px;
+}
